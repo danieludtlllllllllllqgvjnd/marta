@@ -1,0 +1,16 @@
+
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    color:white
+}
+h2{
+    font-family: 'Andale Mono', monospace;
+    color:white
+}
+body{
+    background: linear-gradient(#0b7419 0%, #dde006 100%);
+}
+p{
+    font-size: 20px;
+    font-family: 'Andale Mono', monospace;
+}
